@@ -1,0 +1,481 @@
+State,Climate_Column,Missing_Count
+Andhra Pradesh,utci_max,90
+Andhra Pradesh,utci_mean,90
+Andhra Pradesh,utci_min,90
+Arunachal Pradesh,utci_max,90
+Arunachal Pradesh,utci_mean,90
+Arunachal Pradesh,utci_min,90
+Assam,utci_max,90
+Assam,utci_mean,90
+Assam,utci_min,90
+Bihar,utci_max,90
+Bihar,utci_mean,90
+Bihar,utci_min,90
+Chandigarh,utci_max,90
+Chandigarh,utci_mean,90
+Chandigarh,utci_min,90
+Chhattisgarh,utci_max,90
+Chhattisgarh,utci_mean,90
+Chhattisgarh,utci_min,90
+Delhi,utci_max,90
+Delhi,utci_mean,90
+Delhi,utci_min,90
+Goa,utci_max,90
+Goa,utci_mean,90
+Goa,utci_min,90
+Gujarat,utci_max,90
+Gujarat,utci_mean,90
+Gujarat,utci_min,90
+Haryana,utci_max,90
+Haryana,utci_mean,90
+Haryana,utci_min,90
+Himachal Pradesh,utci_max,90
+Himachal Pradesh,utci_mean,90
+Himachal Pradesh,utci_min,90
+Jammu and Kashmir,utci_max,90
+Jammu and Kashmir,utci_mean,90
+Jammu and Kashmir,utci_min,90
+Jharkhand,utci_max,90
+Jharkhand,utci_mean,90
+Jharkhand,utci_min,90
+Karnataka,utci_max,90
+Karnataka,utci_mean,90
+Karnataka,utci_min,90
+Kerala,utci_max,90
+Kerala,utci_mean,90
+Kerala,utci_min,90
+Madhya Pradesh,utci_max,90
+Madhya Pradesh,utci_mean,90
+Madhya Pradesh,utci_min,90
+Maharashtra,utci_max,90
+Maharashtra,utci_mean,90
+Maharashtra,utci_min,90
+Manipur,utci_max,90
+Manipur,utci_mean,90
+Manipur,utci_min,90
+Meghalaya,utci_max,90
+Meghalaya,utci_mean,90
+Meghalaya,utci_min,90
+Mizoram,utci_max,90
+Mizoram,utci_mean,90
+Mizoram,utci_min,90
+Nagaland,utci_max,90
+Nagaland,utci_mean,90
+Nagaland,utci_min,90
+Odisha,utci_max,90
+Odisha,utci_mean,90
+Odisha,utci_min,90
+Puducherry,utci_max,90
+Puducherry,utci_mean,90
+Puducherry,utci_min,90
+Punjab,utci_max,90
+Punjab,utci_mean,90
+Punjab,utci_min,90
+Rajasthan,utci_max,90
+Rajasthan,utci_mean,90
+Rajasthan,utci_min,90
+Sikkim,utci_max,90
+Sikkim,utci_mean,90
+Sikkim,utci_min,90
+Tamil Nadu,utci_max,90
+Tamil Nadu,utci_mean,90
+Tamil Nadu,utci_min,90
+Telangana,utci_max,90
+Telangana,utci_mean,90
+Telangana,utci_min,90
+Tripura,utci_max,90
+Tripura,utci_mean,90
+Tripura,utci_min,90
+Uttar Pradesh,utci_max,90
+Uttar Pradesh,utci_mean,90
+Uttar Pradesh,utci_min,90
+Uttarakhand,utci_max,90
+Uttarakhand,utci_mean,90
+Uttarakhand,utci_min,90
+West Bengal,utci_max,90
+West Bengal,utci_mean,90
+West Bengal,utci_min,90
+Andhra Pradesh,surface_solar_radiation_downwards_max,2
+Andhra Pradesh,surface_solar_radiation_downwards_mean,2
+Andhra Pradesh,surface_solar_radiation_downwards_min,2
+Arunachal Pradesh,surface_solar_radiation_downwards_max,2
+Arunachal Pradesh,surface_solar_radiation_downwards_mean,2
+Arunachal Pradesh,surface_solar_radiation_downwards_min,2
+Assam,surface_solar_radiation_downwards_max,2
+Assam,surface_solar_radiation_downwards_mean,2
+Assam,surface_solar_radiation_downwards_min,2
+Bihar,surface_solar_radiation_downwards_max,2
+Bihar,surface_solar_radiation_downwards_mean,2
+Bihar,surface_solar_radiation_downwards_min,2
+Chandigarh,surface_solar_radiation_downwards_max,2
+Chandigarh,surface_solar_radiation_downwards_mean,2
+Chandigarh,surface_solar_radiation_downwards_min,2
+Chhattisgarh,surface_solar_radiation_downwards_max,2
+Chhattisgarh,surface_solar_radiation_downwards_mean,2
+Chhattisgarh,surface_solar_radiation_downwards_min,2
+Delhi,surface_solar_radiation_downwards_max,2
+Delhi,surface_solar_radiation_downwards_mean,2
+Delhi,surface_solar_radiation_downwards_min,2
+Goa,surface_solar_radiation_downwards_max,2
+Goa,surface_solar_radiation_downwards_mean,2
+Goa,surface_solar_radiation_downwards_min,2
+Gujarat,surface_solar_radiation_downwards_max,2
+Gujarat,surface_solar_radiation_downwards_mean,2
+Gujarat,surface_solar_radiation_downwards_min,2
+Haryana,surface_solar_radiation_downwards_max,2
+Haryana,surface_solar_radiation_downwards_mean,2
+Haryana,surface_solar_radiation_downwards_min,2
+Himachal Pradesh,surface_solar_radiation_downwards_max,2
+Himachal Pradesh,surface_solar_radiation_downwards_mean,2
+Himachal Pradesh,surface_solar_radiation_downwards_min,2
+Jammu and Kashmir,surface_solar_radiation_downwards_max,2
+Jammu and Kashmir,surface_solar_radiation_downwards_mean,2
+Jammu and Kashmir,surface_solar_radiation_downwards_min,2
+Jharkhand,surface_solar_radiation_downwards_max,2
+Jharkhand,surface_solar_radiation_downwards_mean,2
+Jharkhand,surface_solar_radiation_downwards_min,2
+Karnataka,surface_solar_radiation_downwards_max,2
+Karnataka,surface_solar_radiation_downwards_mean,2
+Karnataka,surface_solar_radiation_downwards_min,2
+Kerala,surface_solar_radiation_downwards_max,2
+Kerala,surface_solar_radiation_downwards_mean,2
+Kerala,surface_solar_radiation_downwards_min,2
+Madhya Pradesh,surface_solar_radiation_downwards_max,2
+Madhya Pradesh,surface_solar_radiation_downwards_mean,2
+Madhya Pradesh,surface_solar_radiation_downwards_min,2
+Maharashtra,surface_solar_radiation_downwards_max,2
+Maharashtra,surface_solar_radiation_downwards_mean,2
+Maharashtra,surface_solar_radiation_downwards_min,2
+Manipur,surface_solar_radiation_downwards_max,2
+Manipur,surface_solar_radiation_downwards_mean,2
+Manipur,surface_solar_radiation_downwards_min,2
+Meghalaya,surface_solar_radiation_downwards_max,2
+Meghalaya,surface_solar_radiation_downwards_mean,2
+Meghalaya,surface_solar_radiation_downwards_min,2
+Mizoram,surface_solar_radiation_downwards_max,2
+Mizoram,surface_solar_radiation_downwards_mean,2
+Mizoram,surface_solar_radiation_downwards_min,2
+Nagaland,surface_solar_radiation_downwards_max,2
+Nagaland,surface_solar_radiation_downwards_mean,2
+Nagaland,surface_solar_radiation_downwards_min,2
+Odisha,surface_solar_radiation_downwards_max,2
+Odisha,surface_solar_radiation_downwards_mean,2
+Odisha,surface_solar_radiation_downwards_min,2
+Puducherry,surface_solar_radiation_downwards_max,2
+Puducherry,surface_solar_radiation_downwards_mean,2
+Puducherry,surface_solar_radiation_downwards_min,2
+Punjab,surface_solar_radiation_downwards_max,2
+Punjab,surface_solar_radiation_downwards_mean,2
+Punjab,surface_solar_radiation_downwards_min,2
+Rajasthan,surface_solar_radiation_downwards_max,2
+Rajasthan,surface_solar_radiation_downwards_mean,2
+Rajasthan,surface_solar_radiation_downwards_min,2
+Sikkim,surface_solar_radiation_downwards_max,2
+Sikkim,surface_solar_radiation_downwards_mean,2
+Sikkim,surface_solar_radiation_downwards_min,2
+Tamil Nadu,surface_solar_radiation_downwards_max,2
+Tamil Nadu,surface_solar_radiation_downwards_mean,2
+Tamil Nadu,surface_solar_radiation_downwards_min,2
+Telangana,surface_solar_radiation_downwards_max,2
+Telangana,surface_solar_radiation_downwards_mean,2
+Telangana,surface_solar_radiation_downwards_min,2
+Tripura,surface_solar_radiation_downwards_max,2
+Tripura,surface_solar_radiation_downwards_mean,2
+Tripura,surface_solar_radiation_downwards_min,2
+Uttar Pradesh,surface_solar_radiation_downwards_max,2
+Uttar Pradesh,surface_solar_radiation_downwards_mean,2
+Uttar Pradesh,surface_solar_radiation_downwards_min,2
+Uttarakhand,surface_solar_radiation_downwards_max,2
+Uttarakhand,surface_solar_radiation_downwards_mean,2
+Uttarakhand,surface_solar_radiation_downwards_min,2
+West Bengal,surface_solar_radiation_downwards_max,2
+West Bengal,surface_solar_radiation_downwards_mean,2
+West Bengal,surface_solar_radiation_downwards_min,2
+Andhra Pradesh,2m_dewpoint_temperature_max,1
+Andhra Pradesh,2m_dewpoint_temperature_mean,1
+Andhra Pradesh,2m_dewpoint_temperature_min,1
+Andhra Pradesh,2m_temperature_max,1
+Andhra Pradesh,2m_temperature_mean,1
+Andhra Pradesh,2m_temperature_min,1
+Andhra Pradesh,total_cloud_cover_max,1
+Andhra Pradesh,total_cloud_cover_mean,1
+Andhra Pradesh,total_cloud_cover_min,1
+Arunachal Pradesh,2m_dewpoint_temperature_max,1
+Arunachal Pradesh,2m_dewpoint_temperature_mean,1
+Arunachal Pradesh,2m_dewpoint_temperature_min,1
+Arunachal Pradesh,2m_temperature_max,1
+Arunachal Pradesh,2m_temperature_mean,1
+Arunachal Pradesh,2m_temperature_min,1
+Arunachal Pradesh,total_cloud_cover_max,1
+Arunachal Pradesh,total_cloud_cover_mean,1
+Arunachal Pradesh,total_cloud_cover_min,1
+Assam,2m_dewpoint_temperature_max,1
+Assam,2m_dewpoint_temperature_mean,1
+Assam,2m_dewpoint_temperature_min,1
+Assam,2m_temperature_max,1
+Assam,2m_temperature_mean,1
+Assam,2m_temperature_min,1
+Assam,total_cloud_cover_max,1
+Assam,total_cloud_cover_mean,1
+Assam,total_cloud_cover_min,1
+Bihar,2m_dewpoint_temperature_max,1
+Bihar,2m_dewpoint_temperature_mean,1
+Bihar,2m_dewpoint_temperature_min,1
+Bihar,2m_temperature_max,1
+Bihar,2m_temperature_mean,1
+Bihar,2m_temperature_min,1
+Bihar,total_cloud_cover_max,1
+Bihar,total_cloud_cover_mean,1
+Bihar,total_cloud_cover_min,1
+Chandigarh,2m_dewpoint_temperature_max,1
+Chandigarh,2m_dewpoint_temperature_mean,1
+Chandigarh,2m_dewpoint_temperature_min,1
+Chandigarh,2m_temperature_max,1
+Chandigarh,2m_temperature_mean,1
+Chandigarh,2m_temperature_min,1
+Chandigarh,total_cloud_cover_max,1
+Chandigarh,total_cloud_cover_mean,1
+Chandigarh,total_cloud_cover_min,1
+Chhattisgarh,2m_dewpoint_temperature_max,1
+Chhattisgarh,2m_dewpoint_temperature_mean,1
+Chhattisgarh,2m_dewpoint_temperature_min,1
+Chhattisgarh,2m_temperature_max,1
+Chhattisgarh,2m_temperature_mean,1
+Chhattisgarh,2m_temperature_min,1
+Chhattisgarh,total_cloud_cover_max,1
+Chhattisgarh,total_cloud_cover_mean,1
+Chhattisgarh,total_cloud_cover_min,1
+Delhi,2m_dewpoint_temperature_max,1
+Delhi,2m_dewpoint_temperature_mean,1
+Delhi,2m_dewpoint_temperature_min,1
+Delhi,2m_temperature_max,1
+Delhi,2m_temperature_mean,1
+Delhi,2m_temperature_min,1
+Delhi,total_cloud_cover_max,1
+Delhi,total_cloud_cover_mean,1
+Delhi,total_cloud_cover_min,1
+Goa,2m_dewpoint_temperature_max,1
+Goa,2m_dewpoint_temperature_mean,1
+Goa,2m_dewpoint_temperature_min,1
+Goa,2m_temperature_max,1
+Goa,2m_temperature_mean,1
+Goa,2m_temperature_min,1
+Goa,total_cloud_cover_max,1
+Goa,total_cloud_cover_mean,1
+Goa,total_cloud_cover_min,1
+Gujarat,2m_dewpoint_temperature_max,1
+Gujarat,2m_dewpoint_temperature_mean,1
+Gujarat,2m_dewpoint_temperature_min,1
+Gujarat,2m_temperature_max,1
+Gujarat,2m_temperature_mean,1
+Gujarat,2m_temperature_min,1
+Gujarat,total_cloud_cover_max,1
+Gujarat,total_cloud_cover_mean,1
+Gujarat,total_cloud_cover_min,1
+Haryana,2m_dewpoint_temperature_max,1
+Haryana,2m_dewpoint_temperature_mean,1
+Haryana,2m_dewpoint_temperature_min,1
+Haryana,2m_temperature_max,1
+Haryana,2m_temperature_mean,1
+Haryana,2m_temperature_min,1
+Haryana,total_cloud_cover_max,1
+Haryana,total_cloud_cover_mean,1
+Haryana,total_cloud_cover_min,1
+Himachal Pradesh,2m_dewpoint_temperature_max,1
+Himachal Pradesh,2m_dewpoint_temperature_mean,1
+Himachal Pradesh,2m_dewpoint_temperature_min,1
+Himachal Pradesh,2m_temperature_max,1
+Himachal Pradesh,2m_temperature_mean,1
+Himachal Pradesh,2m_temperature_min,1
+Himachal Pradesh,total_cloud_cover_max,1
+Himachal Pradesh,total_cloud_cover_mean,1
+Himachal Pradesh,total_cloud_cover_min,1
+Jammu and Kashmir,2m_dewpoint_temperature_max,1
+Jammu and Kashmir,2m_dewpoint_temperature_mean,1
+Jammu and Kashmir,2m_dewpoint_temperature_min,1
+Jammu and Kashmir,2m_temperature_max,1
+Jammu and Kashmir,2m_temperature_mean,1
+Jammu and Kashmir,2m_temperature_min,1
+Jammu and Kashmir,total_cloud_cover_max,1
+Jammu and Kashmir,total_cloud_cover_mean,1
+Jammu and Kashmir,total_cloud_cover_min,1
+Jharkhand,2m_dewpoint_temperature_max,1
+Jharkhand,2m_dewpoint_temperature_mean,1
+Jharkhand,2m_dewpoint_temperature_min,1
+Jharkhand,2m_temperature_max,1
+Jharkhand,2m_temperature_mean,1
+Jharkhand,2m_temperature_min,1
+Jharkhand,total_cloud_cover_max,1
+Jharkhand,total_cloud_cover_mean,1
+Jharkhand,total_cloud_cover_min,1
+Karnataka,2m_dewpoint_temperature_max,1
+Karnataka,2m_dewpoint_temperature_mean,1
+Karnataka,2m_dewpoint_temperature_min,1
+Karnataka,2m_temperature_max,1
+Karnataka,2m_temperature_mean,1
+Karnataka,2m_temperature_min,1
+Karnataka,total_cloud_cover_max,1
+Karnataka,total_cloud_cover_mean,1
+Karnataka,total_cloud_cover_min,1
+Kerala,2m_dewpoint_temperature_max,1
+Kerala,2m_dewpoint_temperature_mean,1
+Kerala,2m_dewpoint_temperature_min,1
+Kerala,2m_temperature_max,1
+Kerala,2m_temperature_mean,1
+Kerala,2m_temperature_min,1
+Kerala,total_cloud_cover_max,1
+Kerala,total_cloud_cover_mean,1
+Kerala,total_cloud_cover_min,1
+Madhya Pradesh,2m_dewpoint_temperature_max,1
+Madhya Pradesh,2m_dewpoint_temperature_mean,1
+Madhya Pradesh,2m_dewpoint_temperature_min,1
+Madhya Pradesh,2m_temperature_max,1
+Madhya Pradesh,2m_temperature_mean,1
+Madhya Pradesh,2m_temperature_min,1
+Madhya Pradesh,total_cloud_cover_max,1
+Madhya Pradesh,total_cloud_cover_mean,1
+Madhya Pradesh,total_cloud_cover_min,1
+Maharashtra,2m_dewpoint_temperature_max,1
+Maharashtra,2m_dewpoint_temperature_mean,1
+Maharashtra,2m_dewpoint_temperature_min,1
+Maharashtra,2m_temperature_max,1
+Maharashtra,2m_temperature_mean,1
+Maharashtra,2m_temperature_min,1
+Maharashtra,total_cloud_cover_max,1
+Maharashtra,total_cloud_cover_mean,1
+Maharashtra,total_cloud_cover_min,1
+Manipur,2m_dewpoint_temperature_max,1
+Manipur,2m_dewpoint_temperature_mean,1
+Manipur,2m_dewpoint_temperature_min,1
+Manipur,2m_temperature_max,1
+Manipur,2m_temperature_mean,1
+Manipur,2m_temperature_min,1
+Manipur,total_cloud_cover_max,1
+Manipur,total_cloud_cover_mean,1
+Manipur,total_cloud_cover_min,1
+Meghalaya,2m_dewpoint_temperature_max,1
+Meghalaya,2m_dewpoint_temperature_mean,1
+Meghalaya,2m_dewpoint_temperature_min,1
+Meghalaya,2m_temperature_max,1
+Meghalaya,2m_temperature_mean,1
+Meghalaya,2m_temperature_min,1
+Meghalaya,total_cloud_cover_max,1
+Meghalaya,total_cloud_cover_mean,1
+Meghalaya,total_cloud_cover_min,1
+Mizoram,2m_dewpoint_temperature_max,1
+Mizoram,2m_dewpoint_temperature_mean,1
+Mizoram,2m_dewpoint_temperature_min,1
+Mizoram,2m_temperature_max,1
+Mizoram,2m_temperature_mean,1
+Mizoram,2m_temperature_min,1
+Mizoram,total_cloud_cover_max,1
+Mizoram,total_cloud_cover_mean,1
+Mizoram,total_cloud_cover_min,1
+Nagaland,2m_dewpoint_temperature_max,1
+Nagaland,2m_dewpoint_temperature_mean,1
+Nagaland,2m_dewpoint_temperature_min,1
+Nagaland,2m_temperature_max,1
+Nagaland,2m_temperature_mean,1
+Nagaland,2m_temperature_min,1
+Nagaland,total_cloud_cover_max,1
+Nagaland,total_cloud_cover_mean,1
+Nagaland,total_cloud_cover_min,1
+Odisha,2m_dewpoint_temperature_max,1
+Odisha,2m_dewpoint_temperature_mean,1
+Odisha,2m_dewpoint_temperature_min,1
+Odisha,2m_temperature_max,1
+Odisha,2m_temperature_mean,1
+Odisha,2m_temperature_min,1
+Odisha,total_cloud_cover_max,1
+Odisha,total_cloud_cover_mean,1
+Odisha,total_cloud_cover_min,1
+Puducherry,2m_dewpoint_temperature_max,1
+Puducherry,2m_dewpoint_temperature_mean,1
+Puducherry,2m_dewpoint_temperature_min,1
+Puducherry,2m_temperature_max,1
+Puducherry,2m_temperature_mean,1
+Puducherry,2m_temperature_min,1
+Puducherry,total_cloud_cover_max,1
+Puducherry,total_cloud_cover_mean,1
+Puducherry,total_cloud_cover_min,1
+Punjab,2m_dewpoint_temperature_max,1
+Punjab,2m_dewpoint_temperature_mean,1
+Punjab,2m_dewpoint_temperature_min,1
+Punjab,2m_temperature_max,1
+Punjab,2m_temperature_mean,1
+Punjab,2m_temperature_min,1
+Punjab,total_cloud_cover_max,1
+Punjab,total_cloud_cover_mean,1
+Punjab,total_cloud_cover_min,1
+Rajasthan,2m_dewpoint_temperature_max,1
+Rajasthan,2m_dewpoint_temperature_mean,1
+Rajasthan,2m_dewpoint_temperature_min,1
+Rajasthan,2m_temperature_max,1
+Rajasthan,2m_temperature_mean,1
+Rajasthan,2m_temperature_min,1
+Rajasthan,total_cloud_cover_max,1
+Rajasthan,total_cloud_cover_mean,1
+Rajasthan,total_cloud_cover_min,1
+Sikkim,2m_dewpoint_temperature_max,1
+Sikkim,2m_dewpoint_temperature_mean,1
+Sikkim,2m_dewpoint_temperature_min,1
+Sikkim,2m_temperature_max,1
+Sikkim,2m_temperature_mean,1
+Sikkim,2m_temperature_min,1
+Sikkim,total_cloud_cover_max,1
+Sikkim,total_cloud_cover_mean,1
+Sikkim,total_cloud_cover_min,1
+Tamil Nadu,2m_dewpoint_temperature_max,1
+Tamil Nadu,2m_dewpoint_temperature_mean,1
+Tamil Nadu,2m_dewpoint_temperature_min,1
+Tamil Nadu,2m_temperature_max,1
+Tamil Nadu,2m_temperature_mean,1
+Tamil Nadu,2m_temperature_min,1
+Tamil Nadu,total_cloud_cover_max,1
+Tamil Nadu,total_cloud_cover_mean,1
+Tamil Nadu,total_cloud_cover_min,1
+Telangana,2m_dewpoint_temperature_max,1
+Telangana,2m_dewpoint_temperature_mean,1
+Telangana,2m_dewpoint_temperature_min,1
+Telangana,2m_temperature_max,1
+Telangana,2m_temperature_mean,1
+Telangana,2m_temperature_min,1
+Telangana,total_cloud_cover_max,1
+Telangana,total_cloud_cover_mean,1
+Telangana,total_cloud_cover_min,1
+Tripura,2m_dewpoint_temperature_max,1
+Tripura,2m_dewpoint_temperature_mean,1
+Tripura,2m_dewpoint_temperature_min,1
+Tripura,2m_temperature_max,1
+Tripura,2m_temperature_mean,1
+Tripura,2m_temperature_min,1
+Tripura,total_cloud_cover_max,1
+Tripura,total_cloud_cover_mean,1
+Tripura,total_cloud_cover_min,1
+Uttar Pradesh,2m_dewpoint_temperature_max,1
+Uttar Pradesh,2m_dewpoint_temperature_mean,1
+Uttar Pradesh,2m_dewpoint_temperature_min,1
+Uttar Pradesh,2m_temperature_max,1
+Uttar Pradesh,2m_temperature_mean,1
+Uttar Pradesh,2m_temperature_min,1
+Uttar Pradesh,total_cloud_cover_max,1
+Uttar Pradesh,total_cloud_cover_mean,1
+Uttar Pradesh,total_cloud_cover_min,1
+Uttarakhand,2m_dewpoint_temperature_max,1
+Uttarakhand,2m_dewpoint_temperature_mean,1
+Uttarakhand,2m_dewpoint_temperature_min,1
+Uttarakhand,2m_temperature_max,1
+Uttarakhand,2m_temperature_mean,1
+Uttarakhand,2m_temperature_min,1
+Uttarakhand,total_cloud_cover_max,1
+Uttarakhand,total_cloud_cover_mean,1
+Uttarakhand,total_cloud_cover_min,1
+West Bengal,2m_dewpoint_temperature_max,1
+West Bengal,2m_dewpoint_temperature_mean,1
+West Bengal,2m_dewpoint_temperature_min,1
+West Bengal,2m_temperature_max,1
+West Bengal,2m_temperature_mean,1
+West Bengal,2m_temperature_min,1
+West Bengal,total_cloud_cover_max,1
+West Bengal,total_cloud_cover_mean,1
+West Bengal,total_cloud_cover_min,1

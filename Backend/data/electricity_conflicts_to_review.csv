@@ -1,0 +1,383 @@
+Date,State,Consumption
+2014-04-21,Goa,9.066666666666666
+2014-04-21,Goa,9.2
+2014-04-28,Andhra Pradesh,260.6
+2014-04-28,Andhra Pradesh,255.7
+2014-04-28,Assam,20.5
+2014-04-28,Assam,18.9
+2014-04-28,Bihar,48.4
+2014-04-28,Bihar,46.6
+2014-04-28,Chandigarh,4.7
+2014-04-28,Chandigarh,4.0
+2014-04-28,Chhattisgarh,78.0
+2014-04-28,Chhattisgarh,78.6
+2014-04-28,Dadra and Nagar Haveli,15.6
+2014-04-28,Dadra and Nagar Haveli,15.7
+2014-04-28,Daman and Diu,6.3
+2014-04-28,Daman and Diu,6.5
+2014-04-28,Delhi,87.3
+2014-04-28,Delhi,84.4
+2014-04-28,Goa,9.4
+2014-04-28,Goa,8.6
+2014-04-28,Gujarat,305.0
+2014-04-28,Gujarat,297.0
+2014-04-28,Haryana,114.5
+2014-04-28,Haryana,110.7
+2014-04-28,Himachal Pradesh,24.3
+2014-04-28,Himachal Pradesh,23.7
+2014-04-28,Jammu and Kashmir,27.9
+2014-04-28,Jammu and Kashmir,25.8
+2014-04-28,Jharkhand,20.7
+2014-04-28,Jharkhand,19.4
+2014-04-28,Karnataka,179.9
+2014-04-28,Karnataka,181.8
+2014-04-28,Kerala,66.2
+2014-04-28,Kerala,63.7
+2014-04-28,Madhya Pradesh,154.0
+2014-04-28,Madhya Pradesh,155.6
+2014-04-28,Maharashtra,424.0
+2014-04-28,Maharashtra,423.3
+2014-04-28,Meghalaya,2.9
+2014-04-28,Meghalaya,2.8
+2014-04-28,Nagaland,1.4
+2014-04-28,Nagaland,1.5
+2014-04-28,Odisha,74.8
+2014-04-28,Odisha,74.6
+2014-04-28,Puducherry,7.3
+2014-04-28,Puducherry,7.2
+2014-04-28,Punjab,119.2
+2014-04-28,Punjab,115.9
+2014-04-28,Rajasthan,167.7
+2014-04-28,Rajasthan,166.8
+2014-04-28,Tamil Nadu,279.5
+2014-04-28,Tamil Nadu,279.1
+2014-04-28,Tripura,2.2
+2014-04-28,Tripura,2.0
+2014-04-28,Uttar Pradesh,268.0
+2014-04-28,Uttar Pradesh,261.3
+2014-04-28,Uttarakhand,34.1
+2014-04-28,Uttarakhand,34.0
+2014-04-28,West Bengal,147.9
+2014-04-28,West Bengal,145.9
+2014-12-10,Chandigarh,3.5
+2014-12-10,Chandigarh,3.4
+2014-12-10,Delhi,59.0
+2014-12-10,Delhi,59.3
+2014-12-10,Haryana,115.4
+2014-12-10,Haryana,116.5
+2014-12-10,Himachal Pradesh,25.7
+2014-12-10,Himachal Pradesh,24.7
+2014-12-10,Jammu and Kashmir,42.2
+2014-12-10,Jammu and Kashmir,42.0
+2014-12-10,Punjab,104.8
+2014-12-10,Punjab,110.5
+2014-12-10,Rajasthan,207.4
+2014-12-10,Rajasthan,206.2
+2014-12-10,Uttar Pradesh,223.7
+2014-12-10,Uttar Pradesh,225.4
+2014-12-10,Uttarakhand,33.2
+2014-12-10,Uttarakhand,31.4
+2014-12-27,Uttar Pradesh,274.4
+2014-12-27,Uttar Pradesh,252.4
+2015-01-27,Dadra and Nagar Haveli,14.466666666666669
+2015-01-27,Dadra and Nagar Haveli,14.1
+2015-04-05,Arunachal Pradesh,1.2
+2015-04-05,Arunachal Pradesh,1.0
+2015-04-05,Assam,17.5
+2015-04-05,Assam,13.0
+2015-04-05,Bihar,46.0
+2015-04-05,Bihar,48.1
+2015-04-05,Chandigarh,3.5
+2015-04-05,Chandigarh,3.1
+2015-04-05,Delhi,69.2
+2015-04-05,Delhi,57.8
+2015-04-05,Haryana,91.1
+2015-04-05,Haryana,83.1
+2015-04-05,Himachal Pradesh,24.0
+2015-04-05,Himachal Pradesh,22.1
+2015-04-05,Jammu and Kashmir,37.0
+2015-04-05,Jammu and Kashmir,37.4
+2015-04-05,Jharkhand,21.4
+2015-04-05,Jharkhand,21.1
+2015-04-05,Karnataka,201.5
+2015-04-05,Karnataka,190.4
+2015-04-05,Kerala,68.7
+2015-04-05,Kerala,65.0
+2015-04-05,Meghalaya,4.2
+2015-04-05,Meghalaya,3.3
+2015-04-05,Mizoram,1.0
+2015-04-05,Mizoram,0.7
+2015-04-05,Nagaland,1.4
+2015-04-05,Nagaland,1.0
+2015-04-05,Odisha,73.7
+2015-04-05,Odisha,76.0
+2015-04-05,Punjab,84.3
+2015-04-05,Punjab,80.6
+2015-04-05,Rajasthan,144.8
+2015-04-05,Rajasthan,138.5
+2015-04-05,Sikkim,1.1
+2015-04-05,Sikkim,0.7
+2015-04-05,Tamil Nadu,290.4
+2015-04-05,Tamil Nadu,280.2
+2015-04-05,Telangana,150.5
+2015-04-05,Telangana,145.6
+2015-04-05,Tripura,2.3
+2015-04-05,Tripura,1.4
+2015-04-05,Uttar Pradesh,214.4
+2015-04-05,Uttar Pradesh,209.8
+2015-04-05,Uttarakhand,28.3
+2015-04-05,Uttarakhand,29.7
+2015-04-05,West Bengal,128.3
+2015-04-05,West Bengal,121.7
+2016-05-26,Andhra Pradesh,152.9
+2016-05-26,Andhra Pradesh,125.2
+2016-05-26,Arunachal Pradesh,1.8
+2016-05-26,Arunachal Pradesh,1.9
+2016-05-26,Assam,25.3
+2016-05-26,Assam,28.4
+2016-05-26,Bihar,61.5
+2016-05-26,Bihar,66.1
+2016-05-26,Chandigarh,5.7
+2016-05-26,Chandigarh,5.8
+2016-05-26,Chhattisgarh,70.8
+2016-05-26,Chhattisgarh,73.6
+2016-05-26,Dadra and Nagar Haveli,16.9
+2016-05-26,Dadra and Nagar Haveli,16.8
+2016-05-26,Delhi,107.5
+2016-05-26,Delhi,116.0
+2016-05-26,Goa,10.1
+2016-05-26,Goa,7.5
+2016-05-26,Gujarat,317.7
+2016-05-26,Gujarat,283.9
+2016-05-26,Haryana,129.4
+2016-05-26,Haryana,177.8
+2016-05-26,Himachal Pradesh,25.5
+2016-05-26,Himachal Pradesh,26.0
+2016-05-26,Jammu and Kashmir,38.2
+2016-05-26,Jammu and Kashmir,32.2
+2016-05-26,Jharkhand,21.6
+2016-05-26,Jharkhand,21.0
+2016-05-26,Karnataka,189.4
+2016-05-26,Karnataka,141.4
+2016-05-26,Kerala,69.2
+2016-05-26,Kerala,54.2
+2016-05-26,Madhya Pradesh,146.4
+2016-05-26,Madhya Pradesh,141.1
+2016-05-26,Maharashtra,434.3
+2016-05-26,Maharashtra,350.8
+2016-05-26,Manipur,1.8
+2016-05-26,Manipur,1.6
+2016-05-26,Meghalaya,4.9
+2016-05-26,Meghalaya,4.5
+2016-05-26,Nagaland,1.4
+2016-05-26,Nagaland,1.7
+2016-05-26,Odisha,72.1
+2016-05-26,Odisha,80.8
+2016-05-26,Puducherry,7.7
+2016-05-26,Puducherry,6.1
+2016-05-26,Punjab,147.5
+2016-05-26,Punjab,148.1
+2016-05-26,Rajasthan,196.8
+2016-05-26,Rajasthan,191.7
+2016-05-26,Tamil Nadu,315.1
+2016-05-26,Tamil Nadu,261.1
+2016-05-26,Telangana,141.8
+2016-05-26,Telangana,111.9
+2016-05-26,Tripura,3.4
+2016-05-26,Tripura,4.2
+2016-05-26,Uttar Pradesh,253.9
+2016-05-26,Uttar Pradesh,314.7
+2016-05-26,Uttarakhand,39.2
+2016-05-26,Uttarakhand,39.7
+2016-05-26,West Bengal,141.0
+2016-05-26,West Bengal,154.7
+2016-10-01,Andhra Pradesh,155.1
+2016-10-01,Andhra Pradesh,135.2
+2016-10-01,Assam,25.9
+2016-10-01,Assam,29.1
+2016-10-01,Bihar,66.4
+2016-10-01,Bihar,73.2
+2016-10-01,Chandigarh,3.1
+2016-10-01,Chandigarh,5.3
+2016-10-01,Chhattisgarh,66.7
+2016-10-01,Chhattisgarh,72.1
+2016-10-01,Dadra and Nagar Haveli,13.5
+2016-10-01,Dadra and Nagar Haveli,17.5
+2016-10-01,Daman and Diu,3.8
+2016-10-01,Daman and Diu,6.7
+2016-10-01,Delhi,106.2
+2016-10-01,Delhi,102.7
+2016-10-01,Goa,9.2
+2016-10-01,Goa,8.6
+2016-10-01,Gujarat,315.8
+2016-10-01,Gujarat,302.2
+2016-10-01,Haryana,99.1
+2016-10-01,Haryana,165.5
+2016-10-01,Himachal Pradesh,22.5
+2016-10-01,Himachal Pradesh,25.9
+2016-10-01,Jammu and Kashmir,35.9
+2016-10-01,Jammu and Kashmir,34.8
+2016-10-01,Jharkhand,22.0
+2016-10-01,Jharkhand,23.3
+2016-10-01,Karnataka,181.8
+2016-10-01,Karnataka,182.2
+2016-10-01,Kerala,64.2
+2016-10-01,Kerala,65.0
+2016-10-01,Madhya Pradesh,192.7
+2016-10-01,Madhya Pradesh,151.0
+2016-10-01,Maharashtra,380.6
+2016-10-01,Maharashtra,349.7
+2016-10-01,Manipur,1.9
+2016-10-01,Manipur,2.0
+2016-10-01,Meghalaya,4.9
+2016-10-01,Meghalaya,4.2
+2016-10-01,Mizoram,1.4
+2016-10-01,Mizoram,1.2
+2016-10-01,Odisha,78.2
+2016-10-01,Odisha,71.5
+2016-10-01,Puducherry,6.6
+2016-10-01,Puducherry,6.7
+2016-10-01,Punjab,183.2333333333333
+2016-10-01,Punjab,177.0666666666667
+2016-10-01,Rajasthan,187.1
+2016-10-01,Rajasthan,207.5
+2016-10-01,Sikkim,1.2
+2016-10-01,Sikkim,1.1
+2016-10-01,Tamil Nadu,265.7
+2016-10-01,Tamil Nadu,294.7
+2016-10-01,Telangana,150.4
+2016-10-01,Telangana,126.6
+2016-10-01,Tripura,3.6
+2016-10-01,Tripura,5.2
+2016-10-01,Uttar Pradesh,265.3
+2016-10-01,Uttar Pradesh,289.4
+2016-10-01,Uttarakhand,28.2
+2016-10-01,Uttarakhand,39.1
+2016-10-01,West Bengal,132.8
+2016-10-01,West Bengal,156.7
+2017-04-14,Andhra Pradesh,163.3
+2017-04-14,Andhra Pradesh,164.9
+2017-04-14,Arunachal Pradesh,2.1
+2017-04-14,Arunachal Pradesh,2.0
+2017-04-14,Assam,24.0
+2017-04-14,Assam,21.3
+2017-04-14,Bihar,72.0
+2017-04-14,Bihar,60.3
+2017-04-14,Chandigarh,4.1
+2017-04-14,Chandigarh,4.3
+2017-04-14,Chhattisgarh,94.6
+2017-04-14,Chhattisgarh,94.3
+2017-04-14,Dadra and Nagar Haveli,17.0
+2017-04-14,Dadra and Nagar Haveli,17.3
+2017-04-14,Daman and Diu,7.0
+2017-04-14,Daman and Diu,5.5
+2017-04-14,Delhi,88.0
+2017-04-14,Delhi,89.7
+2017-04-14,Goa,10.2
+2017-04-14,Goa,10.7
+2017-04-14,Gujarat,343.9
+2017-04-14,Gujarat,348.6
+2017-04-14,Haryana,120.2
+2017-04-14,Haryana,121.5
+2017-04-14,Himachal Pradesh,24.9
+2017-04-14,Himachal Pradesh,22.8
+2017-04-14,Jammu and Kashmir,39.2
+2017-04-14,Jammu and Kashmir,36.5
+2017-04-14,Jharkhand,25.4
+2017-04-14,Jharkhand,24.6
+2017-04-14,Karnataka,214.8
+2017-04-14,Karnataka,215.9
+2017-04-14,Kerala,64.7
+2017-04-14,Kerala,72.0
+2017-04-14,Madhya Pradesh,184.3
+2017-04-14,Madhya Pradesh,183.6
+2017-04-14,Maharashtra,497.4
+2017-04-14,Maharashtra,495.4
+2017-04-14,Manipur,3.1
+2017-04-14,Manipur,2.5
+2017-04-14,Meghalaya,4.3
+2017-04-14,Meghalaya,3.8
+2017-04-14,Mizoram,1.3
+2017-04-14,Mizoram,1.4
+2017-04-14,Nagaland,1.7
+2017-04-14,Nagaland,1.9
+2017-04-14,Odisha,83.6
+2017-04-14,Odisha,85.7
+2017-04-14,Punjab,120.4
+2017-04-14,Punjab,120.5
+2017-04-14,Rajasthan,186.9
+2017-04-14,Rajasthan,188.1
+2017-04-14,Sikkim,1.3
+2017-04-14,Sikkim,1.2
+2017-04-14,Tamil Nadu,310.5
+2017-04-14,Tamil Nadu,313.4
+2017-04-14,Telangana,174.2
+2017-04-14,Telangana,171.9
+2017-04-14,Tripura,4.4
+2017-04-14,Tripura,3.0
+2017-04-14,Uttar Pradesh,322.2
+2017-04-14,Uttar Pradesh,323.3
+2017-04-14,Uttarakhand,36.1
+2017-04-14,Uttarakhand,36.4
+2017-04-14,West Bengal,159.3
+2017-04-14,West Bengal,154.3
+2019-02-25,Andhra Pradesh,190.1
+2019-02-25,Andhra Pradesh,194.2
+2019-02-25,Arunachal Pradesh,1.9
+2019-02-25,Arunachal Pradesh,2.2
+2019-02-25,Assam,23.7
+2019-02-25,Assam,22.8
+2019-02-25,Bihar,72.5
+2019-02-25,Bihar,73.0
+2019-02-25,Chhattisgarh,82.4
+2019-02-25,Chhattisgarh,89.8
+2019-02-25,Dadra and Nagar Haveli,18.2
+2019-02-25,Dadra and Nagar Haveli,18.4
+2019-02-25,Daman and Diu,6.7
+2019-02-25,Daman and Diu,6.9
+2019-02-25,Delhi,61.4
+2019-02-25,Delhi,64.1
+2019-02-25,Gujarat,326.2
+2019-02-25,Gujarat,319.2
+2019-02-25,Himachal Pradesh,28.6
+2019-02-25,Himachal Pradesh,29.8
+2019-02-25,Jammu and Kashmir,46.7
+2019-02-25,Jammu and Kashmir,47.3
+2019-02-25,Jharkhand,17.4
+2019-02-25,Jharkhand,21.1
+2019-02-25,Karnataka,235.1
+2019-02-25,Karnataka,234.5
+2019-02-25,Kerala,75.2
+2019-02-25,Kerala,77.1
+2019-02-25,Madhya Pradesh,226.5
+2019-02-25,Madhya Pradesh,223.9
+2019-02-25,Maharashtra,439.4
+2019-02-25,Maharashtra,433.9
+2019-02-25,Manipur,2.7
+2019-02-25,Manipur,2.1
+2019-02-25,Meghalaya,6.5
+2019-02-25,Meghalaya,6.6
+2019-02-25,Mizoram,1.9
+2019-02-25,Mizoram,1.7
+2019-02-25,Odisha,76.4
+2019-02-25,Odisha,75.0
+2019-02-25,Puducherry,7.6
+2019-02-25,Puducherry,7.7
+2019-02-25,Punjab,101.8
+2019-02-25,Punjab,100.3
+2019-02-25,Rajasthan,232.4
+2019-02-25,Rajasthan,228.8
+2019-02-25,Sikkim,1.2
+2019-02-25,Sikkim,1.3
+2019-02-25,Tamil Nadu,318.5
+2019-02-25,Tamil Nadu,327.6
+2019-02-25,Telangana,217.3
+2019-02-25,Telangana,218.5
+2019-02-25,Tripura,3.7
+2019-02-25,Tripura,2.9
+2019-02-25,Uttar Pradesh,261.4
+2019-02-25,Uttar Pradesh,259.6
+2019-02-25,Uttarakhand,35.9
+2019-02-25,Uttarakhand,36.2
+2019-02-25,West Bengal,111.8
+2019-02-25,West Bengal,112.5
